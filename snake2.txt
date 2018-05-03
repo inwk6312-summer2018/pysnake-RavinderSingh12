@@ -1,0 +1,9 @@
+Make a snake game using Python :
+1) snake size should increase gradually when it touches the mark point	
+2) There should be area of boundary
+3) user can only be out when it touches itself
+4)it can move up down right and left 
+5) points should be calculated on the basis of mark point
+6)after 10 mark points , bonus points and one life of snake would be increased simontaniously
+7)after each score , score will be stored and high score should be calculated on the basis of it
+
